@@ -1,0 +1,326 @@
+D:\ПР-41\Диплом\Склад\Склад\bin\Debug\Склад.exe.config
+D:\ПР-41\Диплом\Склад\Склад\bin\Debug\Склад.exe
+D:\ПР-41\Диплом\Склад\Склад\bin\Debug\Склад.pdb
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.csprojResolveAssemblyReference.cache
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Form1.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Properties.Resources.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.csproj.GenerateResource.Cache
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.exe
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.pdb
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.addlog.resources
+D:\ПР-41\Диплом\Склад\Склад\bin\Debug\base.mdb
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.addlistobj.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.addwaybill.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.amendlistobj.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.amendlog.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.amendwaybill.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.searchlistobj.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.searchwaybill.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.addemployees.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.amendemployees.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Employees.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.searchlog.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.addprovider.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.amendprovider.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Provider.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.searchprovider.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Form0.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Print1.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Print2.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Print3.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\RdlCompile.cache
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\RdlCompile.compiled
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Zhurnal_priema.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Material.resources
+D:\ПР-41\Диплом\Склад\Склад\obj\Debug\Склад.Nakladnaya_na_spisanie.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\bin\Debug\Склад.exe.config
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.exe
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.pdb
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\bin\Debug\Склад.exe
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\bin\Debug\Склад.pdb
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.csprojResolveAssemblyReference.cache
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.addemployees.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.amendemployees.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.Employees.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.Form0.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.addlistobj.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.addlog.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.searchlog.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.Print1.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.Print2.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.Print3.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.addprovider.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.amendprovider.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.Provider.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.searchprovider.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.addwaybill.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.amendlistobj.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.amendlog.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.amendwaybill.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.Form1.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.Properties.Resources.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.searchlistobj.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.searchwaybill.resources
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\Склад.csproj.GenerateResource.Cache
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\RdlCompile.cache
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\obj\Debug\RdlCompile.compiled
+D:\ПР-41\Диплом\Версии\Склад v1\Склад\bin\Debug\base.mdb
+D:\ПР-41\Диплом\Версии\Склад v2\Склад\bin\Debug\Склад.exe.config
+D:\ПР-41\Диплом\Версии\Склад v2\Склад\obj\Debug\Склад.exe
+D:\ПР-41\Диплом\Версии\Склад v2\Склад\obj\Debug\Склад.pdb
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\bin\Debug\Склад.exe.config
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.exe
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.pdb
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\bin\Debug\Склад.exe
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\bin\Debug\Склад.pdb
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.csprojResolveAssemblyReference.cache
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addemployees.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendemployees.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Employees.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Form0.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addlistobj.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addlog.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.searchlog.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Print1.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Print2.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Print3.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addprovider.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendprovider.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Provider.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.searchprovider.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addwaybill.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendlistobj.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendlog.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendwaybill.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Form1.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Properties.Resources.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.searchlistobj.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.searchwaybill.resources
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.csproj.GenerateResource.Cache
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\RdlCompile.cache
+D:\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\RdlCompile.compiled
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\bin\Debug\Склад.exe.config
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.exe
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.pdb
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\bin\Debug\Склад.exe
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\bin\Debug\Склад.pdb
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.csprojResolveAssemblyReference.cache
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addemployees.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendemployees.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Employees.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Form0.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addlistobj.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addlog.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.searchlog.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Print1.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Print2.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Print3.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addprovider.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendprovider.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Provider.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.searchprovider.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.addwaybill.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendlistobj.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendlog.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.amendwaybill.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Form1.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.Properties.Resources.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.searchlistobj.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.searchwaybill.resources
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\obj\Debug\Склад.csproj.GenerateResource.Cache
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\Всё\Учёба\ПР-41\Диплом\Версии\Склад v3\Склад\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\bin\Debug\Склад.exe.config
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.exe
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.pdb
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\bin\Debug\Склад.exe
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\bin\Debug\Склад.pdb
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.csprojResolveAssemblyReference.cache
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.addemployees.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.amendemployees.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Employees.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Form0.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.addlistobj.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.addlog.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.searchlog.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Print1.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Print2.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Print3.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.addprovider.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.amendprovider.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Provider.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.searchprovider.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.addwaybill.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.amendlistobj.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.amendlog.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.amendwaybill.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Form1.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Properties.Resources.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.searchlistobj.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.searchwaybill.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.csproj.GenerateResource.Cache
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\RdlCompile.cache
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\RdlCompile.compiled
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.addcorrection.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Correction.amendcorrection.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Stock.addstock.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Correction.Correction.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Post.Post.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Mark.Mark.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Measuring.measuring.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Stock.stock.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Mark.addmark.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Mark.amendmark.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Post.addpost.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Post.amendpost.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Form2.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Measuring.addmeasuring.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Measuring.amendmeasuring.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v3\Склад\obj\Debug\Склад.Stock.amendstock.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\bin\Debug\Склад.exe.config
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.exe
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.pdb
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\bin\Debug\Склад.exe
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\bin\Debug\Склад.pdb
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.csprojResolveAssemblyReference.cache
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.addcorrection.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Correction.amendcorrection.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Correction.correction.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.addemployees.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.amendemployees.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Employees.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Form0.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Form2.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.addlistobj.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.addlog.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.searchlog.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Mark.addmark.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Mark.amendmark.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Mark.mark.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Measuring.addmeasuring.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Measuring.amendmeasuring.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Measuring.measuring.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.post.addpost.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.post.amendpost.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Print1.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Print2.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Print3.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.addprovider.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.amendprovider.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Provider.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.searchprovider.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Stock.addstock.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Stock.amendstock.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Stock.stock.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.addwaybill.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.amendlistobj.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.amendlog.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.amendwaybill.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Form1.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Properties.Resources.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.searchlistobj.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.searchwaybill.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.csproj.GenerateResource.Cache
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Form3.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\Склад.Post.P.resources
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\RdlCompile.cache
+D:\Всё\Учёба\ИПО-14б\3-й курс\1-е полугодие(5 семестр)\Программирование систем с БД\Склад v4\Склад\obj\Debug\RdlCompile.compiled
+C:\Users\usr\Desktop\Склад v4\Склад\bin\Debug\Склад.exe.config
+C:\Users\usr\Desktop\Склад v4\Склад\obj\Debug\Склад.exe
+C:\Users\usr\Desktop\Склад v4\Склад\obj\Debug\Склад.pdb
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.csprojResolveAssemblyReference.cache
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.addcorrection.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Correction.amendcorrection.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Correction.correction.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.addemployees.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.amendemployees.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Employees.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Form0.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Form2.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Form3.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.addlistobj.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.addlog.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.searchlog.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Mark.addmark.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Mark.amendmark.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Mark.mark.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Measuring.addmeasuring.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Measuring.amendmeasuring.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Measuring.measuring.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Post.addpost.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.post.amendpost.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Post.P.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Print1.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Print2.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Print3.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.addprovider.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.amendprovider.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Provider.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.searchprovider.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.RegForm.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Stock.addstock.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Stock.amendstock.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Stock.stock.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.addwaybill.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.amendlistobj.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.amendlog.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.amendwaybill.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Form1.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.Properties.Resources.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.searchlistobj.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.searchwaybill.resources
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.csproj.GenerateResource.Cache
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.csproj.CoreCompileInputs.cache
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.exe
+E:\Stud\old\Склад v4\Склад\obj\Debug\Склад.pdb
+E:\Stud\old\Склад v4\Склад\bin\Debug\Склад.exe.config
+E:\Stud\old\Склад v4\Склад\bin\Debug\Склад.exe
+E:\Stud\old\Склад v4\Склад\bin\Debug\Склад.pdb
+E:\Stud\old\Склад v4\Склад\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\bin\Debug\Склад.exe.config
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\bin\Debug\Склад.exe
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\bin\Debug\Склад.pdb
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\bin\Debug\ru\Microsoft.VisualBasic.PowerPacks.Vs.resources.dll
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.csprojResolveAssemblyReference.cache
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.addcorrection.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Correction.amendcorrection.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Correction.correction.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.addemployees.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.amendemployees.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Employees.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Form0.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Form2.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Form3.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.addlistobj.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.addlog.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.searchlog.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Mark.addmark.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Mark.amendmark.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Mark.mark.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Measuring.addmeasuring.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Measuring.amendmeasuring.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Measuring.measuring.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Post.addpost.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.post.amendpost.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Post.P.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Print1.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Print2.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Print3.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.addprovider.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.amendprovider.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Provider.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.searchprovider.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Stock.addstock.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Stock.amendstock.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Stock.stock.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.addwaybill.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.amendlistobj.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.amendlog.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.amendwaybill.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Form1.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.Properties.Resources.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.searchlistobj.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.searchwaybill.resources
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.csproj.GenerateResource.Cache
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.exe
+D:\Всё\Учёба\ИПО-14б\4-й курс\1-е полугодие (7 семестр)\Безопасность программ и данных (Чернышова)\Склад v4\Склад\obj\Debug\Склад.pdb
